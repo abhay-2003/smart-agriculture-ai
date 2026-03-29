@@ -5,7 +5,7 @@ An intelligent, AI-driven platform designed to assist farmers and agriculture en
 ---
 
 ### 🚀 Live Demo
-**👉 [Launch Smart Agriculture App](https://your-streamlit-app-link.streamlit.app)** *(Replace this with your deployed app link!)*
+**👉 [Launch Smart Agriculture App](https://smart-agriculture-ai-d2zgcaxfdnhx8wzjverisv.streamlit.app/)**
 
 ---
 
