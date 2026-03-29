@@ -1,8 +1,5 @@
 .venv/
 venv/
-models/
-*.pkl
-*.h5
 __pycache__/
 *.pyc
 .env
