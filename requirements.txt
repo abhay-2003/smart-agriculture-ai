@@ -1,0 +1,12 @@
+streamlit
+numpy
+pandas
+scikit-learn
+tensorflow
+tf-keras
+joblib
+requests
+python-dotenv
+Pillow
+google-generativeai
+opencv-python-headless
